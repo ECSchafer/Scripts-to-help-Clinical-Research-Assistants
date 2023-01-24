@@ -9,6 +9,7 @@ A couple example scripts I wrote to help save time for the clinical research ass
 The Clinical Research Assistants requested the clinical notes for a list of individuals. They got back a single .txt file that included all the clinical notes for every individual requested. The file was in a horrendous format that they could not easily import to excel. The format looked something like:
 
 [report start] 
+
 Header 
 
 Note 
@@ -16,6 +17,7 @@ Note
 [report end]
 
 [report start]
+
 Header
 
 Note
